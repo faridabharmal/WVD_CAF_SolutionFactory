@@ -48,7 +48,7 @@ It's the only virtual desktop infrastructure (VDI) that delivers simplified mana
 ## Key Contributors
 Thanks to our contributors:  
 Microsoft Team: Farida Bharmal, Manish Dhall, Dale Kirby, Jeff Mitchell   
-We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory. 
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
 
 ## Support for future scenarios
 The contents are provided as-is. We periodically update and enhance the contents. 
