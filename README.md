@@ -3,7 +3,7 @@ We heard clearly from our customers and partners to provide Cloud Adoption Frame
 
 We have put together very detailed guidance and toolset that can help our customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF) and called it 'The WVD CAF Solution Factory'. The WVD CAF Solution Factory takes you through all the phases of Cloud Adoption Framework detailing the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
 
-## Artifacts Included
+## WVD CAF Solution Factory Artifacts
 The WVD CAF Solution Factory, has the the following artifacts:
 
 1. [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx)
