@@ -6,13 +6,14 @@ This Github repository provides documentation and artifacts for partners who nee
 
 # Artifacts
 
-WVD CAF Guidance document: ../
+WVD CAF Guidance document: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx))
 
-WVD CAF Project Task List:  ../
+WVD CAF Project Task List: ([Open](
+https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Project%20Task%20List.xlsx))
 
-WVD Project Task - DevOps template: ../
+WVD Project Task - DevOps template: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20DevOps%20Project%20TaskList/WVD%20Project%20-%20Task%20DevOps%20Template.zip))
 
-WVD CAF Security Policies: ../WVD CAF Governance - Security Policy Guideline.docx
+WVD CAF Security Policies: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Governance%20-%20Security/WVD%20CAF%20Governance%20-%20Security%20Policy%20Guideline.docx))
 
 
 # Cloud Adoption Framework Guidance for WVD
