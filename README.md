@@ -6,7 +6,7 @@ We have put together very detailed guidance and toolset that can help our custom
 ## Artifacts Included
 The WVD CAF Solution Factory, has the the following artifacts:
 
-1. [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx)
+1.
 
    Detailed guidance about what one needs to do in each of the Cloud Adoption phases for WVD Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
