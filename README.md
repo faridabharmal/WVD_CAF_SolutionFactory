@@ -49,11 +49,3 @@ Windows Virtual Desktop is a comprehensive desktop and app virtualization servic
 Thanks to our contributors:  
 Microsoft Team: Dale Kirby, Jeff Mitchell, Farida Bharmal, Manish Dhall.  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the Solution Factory. 
-
-
-
-
-
-
-
-
