@@ -1,10 +1,30 @@
 # Welcome to the Cloud Adoption Framework Guidance for Windows Virtual Desktop # 
 We heard from our customers and partners to provide Cloud Adoption Framework guidance for specific scenarios and make it real. 
 
+<<<<<<< HEAD
 We have put together very detailed guidance and toolset that can help our customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF) and called it 'The WVD CAF Solution Factory'. The WVD CAF Solution Factory takes you through all the phases of Cloud Adoption Framework detailing the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
 
 ## Artifacts Included
 The WVD CAF Solution Factory, has the the following artifacts:
+=======
+## Audience:
+ Azure Specialists, Cloud Solution Architects, Technical Pre-Sales Teams and related stakeholders, primarily for Partner and Customer Organizations who are adopt or migrate to Windows Virtual Desktop 
+
+# Artifacts
+
+WVD CAF Guidance document: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx))
+
+WVD CAF Project Task List: ([Open](
+https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Project%20Task%20List.xlsx))
+
+WVD Project Task - DevOps template: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20DevOps%20Project%20TaskList/WVD%20Project%20-%20Task%20DevOps%20Template.zip))
+
+WVD CAF Security Policies: ([Open](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Governance%20-%20Security/WVD%20CAF%20Governance%20-%20Security%20Policy%20Guideline.docx))
+
+
+# Cloud Adoption Framework Guidance for WVD
+ CAF framework outlines key phases typically required/recommended to successfully implement and execute the WVD engagement.
+>>>>>>> 6fb8103cbc6f17dc886c012e1f2fa832a492f150
 
 1. [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx)
 
@@ -25,6 +45,7 @@ The WVD CAF Solution Factory, has the the following artifacts:
  
 4. [WVD CAF Governance - Security](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/WVD%20CAF%20Governance%20-%20Security)
 
+<<<<<<< HEAD
    One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 
@@ -44,6 +65,10 @@ Windows Virtual Desktop is a desktop and app virtualization service that runs on
 [Windows Virtual Desktop Documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview) 
  
 Windows Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It's the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Office 365 ProPlus, and support for Remote Desktop Services (RDS) environments.
+=======
+
+
+>>>>>>> 6fb8103cbc6f17dc886c012e1f2fa832a492f150
 
 ## Key Contributors
 Thanks to our contributors:  
