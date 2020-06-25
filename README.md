@@ -28,7 +28,7 @@ The WVD CAF Solution Factory, has the the following artifacts:
    One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 
-## Azure Cloud Adoption Framework Overview
+## Azure Cloud Adoption Framework  
 The Microsoft Cloud Adoption Framework for Azure is proven guidance that’s designed to help you create and implement the business and technology strategies necessary for your organization to succeed in the cloud. It provides best practices, documentation, and tools that cloud architects, IT professionals, and business decision makers need to successfully achieve their short- and long-term objectives.
 
 The Azure Cloud Adoption Journey
@@ -41,10 +41,11 @@ The Azure Cloud Adoption Journey
 
 ## Azure Windows Virtual Desktop
 Windows Virtual Desktop is a desktop and app virtualization service that runs on the cloud.
+It's the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Office 365 ProPlus, and support for Remote Desktop Services (RDS) environments.
 
 [Windows Virtual Desktop Documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview) 
  
-Windows Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It's the only virtual desktop infrastructure (VDI) that delivers simplified management, multi-session Windows 10, optimizations for Office 365 ProPlus, and support for Remote Desktop Services (RDS) environments.
+
 
 ## Key Contributors
 Thanks to our contributors:  
