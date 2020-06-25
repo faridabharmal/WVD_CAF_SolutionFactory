@@ -31,7 +31,7 @@ The WVD CAF Solution Factory, has the the following artifacts:
 ## Azure Cloud Adoption Framework Overview
 The Microsoft Cloud Adoption Framework for Azure is proven guidance that’s designed to help you create and implement the business and technology strategies necessary for your organization to succeed in the cloud. It provides best practices, documentation, and tools that cloud architects, IT professionals, and business decision makers need to successfully achieve their short- and long-term objectives.
 
- The Azure Cloud Adoption Journey (https://github.com/faridabharmal/WVD_CAF_SolutionFactory/images/caf.png "The Azure Cloud Adoption Journey") 
+ The Azure Cloud Adoption Journey (https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Images/CAF.png "The Azure Cloud Adoption Journey") 
   
  [Azure Cloud Adopiton Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)
 
