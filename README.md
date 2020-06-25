@@ -1,45 +1,44 @@
 # Welcome to the Cloud Adoption Framework Guidance for Windows Virtual Desktop # 
-This Github repository provides documentation and artifacts for partners who need guidance to deploy and manage Windows Virtual Desktop deployment in Azure in alignment to Cloud Adoption Framework (CAF).
+This Github repository provides guidance and tools for customers and partners who are looking to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).
 
-**Audience:**  Azure Specialists, Cloud Solution Architects, Technical Pre-Sales Teams and related stakeholders, primarily for Partner and Customer Organizations who are adopt or migrate to Windows Virtual Desktop 
+The WVD CAF Solution Factory is designed to take you through all the phases of Cloud Adoption Framework and details out the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
 
-## Windows Virtual Desktop (WVD) 
+## Artifacts Included
+1. WVD CAF Guidance Documentation: Detailed guidance about what one needs to do in each of the Cloud Adoption phases for WVD Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology. https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx  
+
+2. WVD CAF Project DevOps Project Task List: When you go through the WVD deployment, its a project with more than 100 task - big and small that needs to be done. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete WVD deployment and management. 
+
+Steps to import the DevOps Project:  
+    Sign in to the Azure DevOps Demo Generator site  https://azuredevopsdemogenerator.azurewebsites.net/
+    Provide project name, select your Org, and choose the "WVD Project - Task DevOps Template.zip" template from this GitHub Repo 
+
+3. WVD CAF Project Task List.xlsx: Incase if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
+https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Project%20Task%20List.xlsx 
+ 
+4. WVD CAF Governance - Security: One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/WVD%20CAF%20Governance%20-%20Security
+
+## Windows Virtual Desktop (WVD) Overview 
 CAF framework outlines key phases typically required/recommended to successfully implement and execute the WVD engagement.
 
-## Strategy Phase
-During the strategy phase, we try to understand the business through its motivations and outcomes. The underlying rationale behind the deployment of WVD in Azure is studied here.
+## Azure Cloud Adoption Framework Overview
+  
+    ## Strategy Phase
+    During the strategy phase, we try to understand the business through its motivations and outcomes. The underlying rationale behind the deployment of WVD in Azure is studied here.
 
+    ## Plan Phase
+    Planning is the next phase which aids in building the roadmap to transform the strategy goals and business motivation into actionable items in alignment with CAF framework. This phase outlines the IT assets, users involved, their storage needs, resources required for managing and deploying WVD environment and assessment of the environment in detail.
 
-## Plan Phase
-Planning is the next phase which aids in building the roadmap to transform the strategy goals and business motivation into actionable items in alignment with CAF framework. This phase outlines the IT assets, users involved, their storage needs, resources required for managing and deploying WVD environment and assessment of the environment in detail.
+    ## Ready Phase
+    This is an important phase where the ground level work is done to ensure that gaps are addressed and support needs are provided before deployment begins. A stage that needs to be set up wherein the landing zone is defined by organizing resources and setting up Network and Domain control. This session also details about building VM image through which we can create multiple session hosts. 
+    
+    ## Adopt phase
+    This is the main phase wherein the actual deployment will take place whether it is in greenfield space or migration from a different setup. It starts with setting up the host pool and customizing it according to the deployment. A standard procedure for execution of greenfield deployment is described herein. Azure enables to migrate existing virtual desktop workloads to Microsoft Azure as part of Windows Virtual Desktop and so, the migration process, its patterns and best practices are described herein.
 
+    ## Governance 
+    Governance creates guardrails that keep the company on a safe path throughout the journey. For organizations with existing policies that govern on-premises IT environments, governance should complement those policies. Security and Compliance guidelines are elaborated to keep your systems safe.
 
-## Ready Phase
-This is an important phase where the ground level work is done to ensure that gaps are addressed and support needs are provided before deployment begins. A stage that needs to be set up wherein the landing zone is defined by organizing resources and setting up Network and Domain control. This session also details about building VM image through which we can create multiple session hosts. 
-
-## Adopt phase
-This is the main phase wherein the actual deployment will take place whether it is in greenfield space or migration from a different setup. It starts with setting up the host pool and customizing it according to the deployment. A standard procedure for execution of greenfield deployment is described herein. Azure enables to migrate existing virtual desktop workloads to Microsoft Azure as part of Windows Virtual Desktop and so, the migration process, its patterns and best practices are described herein.
-
-## Governance 
-Governance creates guardrails that keep the company on a safe path throughout the journey. For organizations with existing policies that govern on-premises IT environments, governance should complement those policies. Security and Compliance guidelines are elaborated to keep your systems safe.
-
-## Manage
-Unless, we have a plan to manage the operations, the efforts put in planning, readiness and adoption will yield little value. In the end, patch management process is carried out for updating and patching the Session host VMs to avoid any security vulnerabilities and applying any configuration controls as required.
-
-## Artififacts
-
-WVD Project Task List: 
-
-http://microsoft.com
-
-WVD Project Tasl - DevOps template
-
-http://microsoft.com
-
-
-WVD Security Policies
-
-../WVD CAF Governance - Security Policy Guideline.docx
+    ## Manage
+    Unless, we have a plan to manage the operations, the efforts put in planning, readiness and adoption will yield little value. In the end, patch management process is carried out for updating and patching the Session host VMs to avoid any security vulnerabilities and applying any configuration controls as required.
 
 
 ## Contributing
@@ -53,21 +52,4 @@ This project has adopted the <a href="https://opensource.microsoft.com/codeofcon
 
 For more information see the <a href="https://opensource.microsoft.com/codeofconduct/faq/" rel="nofollow">Code of Conduct FAQ</a> or
 contact <a href="mailto:opencode@microsoft.com">opencode@microsoft.com</a> with any additional questions or comments.
-
-
-
-## Legal Notices
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the <a href="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International Public License</a>,
-see the <a href="/JefferyMitchell/azure-ocp-samples/blob/master/LICENSE">LICENSE</a> file, and grant you a license to any code in the repository under the <a href="https://opensource.org/licenses/MIT" rel="nofollow">MIT License</a>, see the
-<a href="/JefferyMitchell/azure-ocp-samples/blob/master/LICENSE-CODE">LICENSE-CODE</a> file.
-
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at <a href="http://go.microsoft.com/fwlink/?LinkID=254653" rel="nofollow">http://go.microsoft.com/fwlink/?LinkID=254653</a>.
-
-Privacy information can be found at <a href="https://privacy.microsoft.com/en-us/">https://privacy.microsoft.com/en-us/</a>
-
-Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents, or trademarks, whether by implication, estoppel or otherwise.
 
