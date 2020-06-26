@@ -7,16 +7,16 @@ The Azure Cloud Adoption Journey
 ## WVD CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [WVD CAF PreSales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx)   
+ * [WVD CAF PreSales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Guidance.docx)   
  Sell-To and Sell-Through guidance on customer and partner business model including licensing and pricing driving the sales motions with cost savings.
 
 
 ## Technical Contents
-*  [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Guidance.docx)
+*  [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Guidance.docx)
 
    Guidance about what one needs to do in each of the Cloud Adoption phases for WVD Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
-*  [WVD CAF Project DevOps Project Task List](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/WVD%20CAF%20DevOps%20Project%20TaskList)
+*  [WVD CAF Project DevOps Project Task List](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/Technical%20Enablement/WVD%20CAF%20DevOps%20Project%20TaskList)
 
     When you go through the WVD deployment, its a project with more than 100 task - big and small that needs to be done. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete WVD deployment and management. 
 
@@ -24,12 +24,12 @@ The Azure Cloud Adoption Journey
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
     * Provide project name, select your Org, and choose the "WVD Project - Task DevOps Template.zip" template from this GitHub Repo 
 
-*  [WVD CAF Project Task List.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/WVD%20CAF%20Project%20Task%20List.xlsx)
+*  [WVD CAF Project Task List.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Project%20Task%20List.xlsx)
 
    Incase if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
  
-*  [WVD CAF Governance - Security](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/WVD%20CAF%20Governance%20-%20Security)
+*  [WVD CAF Governance - Security](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/Technical%20Enablement/WVD%20CAF%20Governance%20-%20Security)
 
    One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
