@@ -47,7 +47,7 @@ Microsoft Team: Farida Bharmal, Manish Dhall, Dale Kirby, Jeff Mitchell
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the content.
 
 ## Support for future scenarios
-The contents are provided as-is. We periodically update and enhance the contents. 
+This content is provided as-is. We periodically update and enhance the contents. 
 
 
 ## Disclaimer  
