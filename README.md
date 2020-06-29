@@ -1,5 +1,5 @@
 # Cloud Adoption Framework Guidance for Windows Virtual Desktop (WVD) # 
-This github repo has guidance and toolset that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).The WVD CAF Solution Factory is collection of guidance document, Devops project tasklist and security policy guidance that helps through all the phases of Cloud Adoption Framework detailing the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
+This github repo has eBook and toolset that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).The WVD CAF Solution Factory is collection of eBook, Devops project tasklist and security policy guidance to helps through all the phases of Cloud Adoption Framework. It has detailed the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
 
 The Azure Cloud Adoption Journey
  ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/CAF.png)
@@ -12,13 +12,13 @@ The Azure Cloud Adoption Journey
 
 
 ## Technical Contents
-*  [WVD CAF Guidance Documentation](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Guidance.docx)
+*  [eBook: WVD Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Guidance.docx)
 
    Guidance about what one needs to do in each of the Cloud Adoption phases for WVD Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
 *  [WVD CAF Project DevOps Project Task List](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/Technical%20Enablement/WVD%20CAF%20DevOps%20Project%20TaskList)
 
-    When you go through the WVD deployment, its a project with more than 100 task - big and small that needs to be done. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete WVD deployment and management. 
+    When you go through the WVD deployment, there are multiple tasks that needs to completed. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete WVD deployment and management. 
 
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
