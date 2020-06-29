@@ -1,5 +1,5 @@
 # Cloud Adoption Framework Guidance for Windows Virtual Desktop (WVD) # 
-This github repo has eBook and toolset that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).The WVD CAF Solution Factory is collection of eBook, Devops project tasklist and security policy guidance to helps through all the phases of Cloud Adoption Framework. It has detailed the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
+This github repo has eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).The WVD CAF Solution Factory is collection of eBook, Devops project tasklist and security policy guidance to helps through all the phases of Cloud Adoption Framework. It has detailed the steps that are needed for a successful Azure Windows Virtual Desktop deployment and management.  
 
 The Azure Cloud Adoption Journey
  ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
