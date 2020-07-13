@@ -1,24 +1,23 @@
 # Windows Virtual Desktop (WVD) Solution Factory Aligned to Cloud Adoption Framework # 
-The WVD CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).  
+The WVD CAF Solution Factory contains an eBook, a Task List in Azure DevOps  and Excel templates, and Security Policy suggestions that can help Microsoft customers and partners deploy and manage Windows Virtual Desktop (WVD) in alignment with the Microsoft Cloud Adoption Framework (CAF).  
 
-The Azure Cloud Adoption Journey
  ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
-## WVD CAF Solution Factory Contents
+# WVD CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [WVD CAF PreSales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement)   
- Sell-To and Sell-Through guidance on customer and partner business model including licensing and pricing driving the sales motions with cost savings.
+ * [WVD CAF Pre-Sales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement)   
+ Sell-To and Sell-Through guidance on customer and partner business model including licensing and pricing with cost savings.
 
 
 ## Technical Contents
 *  [eBook: WVD Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   Guidance about what one needs to do in each of the Cloud Adoption phases for WVD Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
+   Guidance supporting WVD in relation to CAF phases including Strategy, Plan, Ready, Adopt, Govern and Manage. Detailed step by step guidance to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
 *  [WVD CAF Project DevOps Project TaskList](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-    When you go through the WVD deployment, there are multiple tasks that needs to completed. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete WVD deployment and management. 
+    Project work plan templates in Azure DevOps Project or Excel formats that provide the steps necessary to go from zero to a complete WVD deployment with ongoing management. 
 
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
@@ -26,7 +25,7 @@ The Azure Cloud Adoption Journey
 
 *  [WVD_CAF_Project_ TaskList.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   Incase if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
+   If you are not using Azure DevOps for project management we have provided all the necessary steps in an Excel file which can be leveraged as is or imported into your own project management tool of choice.  
 
  
 *  [WVD_CAF_Governance_ Security_Policy_Guideline](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
@@ -45,10 +44,10 @@ The Azure Cloud Adoption Journey
 ## Key Contributors
 Thanks to our contributors:  
 Microsoft Team: Farida Bharmal, Manish Dhall, Dale Kirby, Jeff Mitchell   
-We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
+We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the content.
 
 ## Support for future scenarios
-The contents are provided as-is. We periodically update and enhance the contents. 
+This content is provided as-is. We periodically update and enhance the contents. 
 
 
 ## Disclaimer  
