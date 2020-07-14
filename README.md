@@ -6,7 +6,7 @@ The WVD CAF Solution Factory contains an eBook, a Task List in Azure DevOps  and
 # WVD CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [WVD CAF Pre-Sales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement)   
+ * [WVD CAF Pre-Sales](/SalesEnablement/)   
  Sell-To and Sell-Through guidance on customer and partner business model including licensing and pricing with cost savings.
 
 
