@@ -15,12 +15,12 @@ The WVD CAF Solution Factory contains an eBook, a Task List in Azure DevOps  and
    Guidance supporting WVD in relation to CAF phases including Strategy, Plan, Ready, Adopt, Govern and Manage. Detailed step by step guidance to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
 *  [WVD CAF Project DevOps Project TaskList](/TechnicalEnablement/WVD_CAF_DevOps_Project_TaskList.zip)  
-    Project work plan templates in Azure DevOps Project or Excel formats that provide the steps necessary to go from zero to a complete WVD deployment with ongoing management. 
+    Project work plan templates in Azure DevOps Project or Excel formats that provide the steps necessary to go from zero to a complete WVD deployment with ongoing management.   
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
     * Provide project name, select your Org, and choose [WVD CAF DevOps Project TaskList](/TechnicalEnablement/WVD_CAF_DevOps_Project_TaskList.zip) template from this GitHub Repo 
 
-*  [WVD_CAF_Project_ TaskList.xlsx](/TechnicalEnablement/WVD_CAF_Project_TaskList.xlsx)
+*  [WVD_CAF_Project_ TaskList.xlsx](/TechnicalEnablement/WVD_CAF_Project_TaskList.xlsx)  
    If you are not using Azure DevOps for project management we have provided all the necessary steps in an Excel file which can be leveraged as is or imported into your own project management tool of choice.  
 
  *  [WVD_CAF_Governance_ Security_Policy_Guideline](/TechnicalEnablement/WVD_CAF_Governance_Security_Policy_Guideline.docx)  
