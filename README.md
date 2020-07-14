@@ -11,7 +11,7 @@ The WVD CAF Solution Factory contains an eBook, a Task List in Azure DevOps  and
 
 
 ## Technical Contents
-*  [eBook: WVD Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+*  [eBook: WVD Adoption Aligned To Cloud Adoption Framework](/TechnicalEnablement/eBook_WVD_Adoption_Aligned_To_Cloud_Adoption_Framework.docx)
 
    Guidance supporting WVD in relation to CAF phases including Strategy, Plan, Ready, Adopt, Govern and Manage. Detailed step by step guidance to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
